@@ -1,5 +1,7 @@
 # esx_fahrschuljob
 
+Dieser esx_fahrschuljob fördert das RP auf deinem Server!
+
 ### Requirements
 * Auto mode
   * [esx_billing](https://github.com/FXServer-ESX/fxserver-esx_billing)
